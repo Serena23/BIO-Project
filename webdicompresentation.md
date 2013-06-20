@@ -105,15 +105,13 @@ jsDICOM is *GPL-licensed*.
 * Based on Region Growing Algorithm
 
 
-- - -
+---
 #### Region growing for edge detection
 
-![image_1](https://raw.github.com/cvdlab-cg/442999/master/progetto/seg_image/RegionGrowing_1.jpg)
+![image_1](http://i42.tinypic.com/2j47ewh.jpg)
 
 ---
 
-![image_2](https://raw.github.com/cvdlab-cg/442999/master/progetto/seg_image/Seconda_Grown.jpg)
-
----
+![image_2](http://i42.tinypic.com/dfastw.jpg)
 
 ###STEP 3. Block Decomposition
