@@ -114,4 +114,6 @@ jsDICOM is *GPL-licensed*.
 
 ![image_2](http://i42.tinypic.com/dfastw.jpg)
 
+---
+
 ###STEP 3. Block Decomposition
